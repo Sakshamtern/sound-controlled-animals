@@ -1,0 +1,42 @@
+body
+{
+    font-family: 'Petemoss', cursive;
+    background-color: #d74c1a;
+    
+}
+
+.header_div
+{
+    background-color: slategrey;
+    color: lime;
+}
+
+.header_div p{
+    font-family: cursive;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 28px;
+}
+
+
+.main_div button
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 25px;
+    width: 28%;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    background-color: dimgray;
+    color: rgb(28, 246, 8);
+    width: 100%;
+    font-size: 30px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px, 5px, 5px rgb(169, 169, 69);
+}
